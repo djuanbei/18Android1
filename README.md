@@ -5,4 +5,6 @@ __SDK proxy__ mirrors.neusoft.edu.cn：80
 
 IDE https://www.jetbrains.com/idea/download/#section=windows (Community)
 
+__short cut for android studio__ https://developer.android.google.cn/studio/intro/keyboard-shortcuts
+
 SDK API28
