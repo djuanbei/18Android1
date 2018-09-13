@@ -1,0 +1,38 @@
+1. General Shortcuts
+Ctrl+Shift+N 	Go to file
+Alt+Arrow Left/Arrow Right 	Navigate open tabs
+Ctrl+E 	Lookup recent files
+Ctrl+G 	Go to line
+Ctrl+Shift+Backspace 	Navigate to last edit location
+Ctrl+B 	Go to declaration
+Ctrl+Alt+B 	Go to implementation
+F4 	Go to source
+Ctrl+U 	Go to super Class
+Ctrl+Alt+H 	Show Call hierarchy
+Ctrl+Shift+F 	Search in path/project
+Ctrl+Alt+L 	Reformat code
+Ctrl+Alt+O 	Optimize imports
+Ctrl+Space 	Code Completion
+Alt+Enter 	Issue quick fix
+Ctrl+Alt+T 	Surround code block
+Shift+F6 	Rename and refactor
+Ctrl+/ 	Line Comment or Uncomment
+Ctrl+Shift+/ 	Block Comment or Uncomment
+Alt+ UP/DOWN 	Go to previous/next method
+Ctrl+P 	Show parameters for method
+Ctrl+Q 	Quick documentation lookup
+Ctrl+Y 	Delete line
+Alt+Delete 	Safe Delete
+Ctrl+F4 	Close Active Tab
+Shift+F10 	Build and run
+Ctrl+F9 	Build
+Ctrl+Shift+A 	All purpose (Meta)Shortcut
+
+▲ up
+minus2. Text Basic Shortcuts
+Ctrl+C 	Copy
+Ctrl+V 	Paste
+Ctrl+S 	Save
+Ctrl+O 	Open
+Ctrl+F 	Find
+Ctrl+H 	Find and Replace
