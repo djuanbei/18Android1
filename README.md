@@ -8,3 +8,6 @@ IDE https://www.jetbrains.com/idea/download/#section=windows (Community)
 __short cut for android studio__ https://developer.android.google.cn/studio/intro/keyboard-shortcuts
 
 SDK API28
+
+# 大作业
+http://47.95.215.87:8080/project/
